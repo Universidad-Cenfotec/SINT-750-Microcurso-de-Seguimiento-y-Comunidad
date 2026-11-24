@@ -46,4 +46,4 @@ Antes de cada tarea, actualiza tu fork para tener lo más reciente del curso:
 2. Haz clic en **Sync fork** y luego en **Update branch**.
    Si ya está al día, verás el mensaje *This branch is not behind the upstream*: no tienes que hacer nada.
 
-   ![Sync fork](img/04-sync-fork.png)
+   ![Sync fork](img/08-sync-update.png)
