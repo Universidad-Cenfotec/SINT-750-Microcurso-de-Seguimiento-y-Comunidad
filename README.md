@@ -51,5 +51,5 @@ Facilitador de comunidades tecnológicas · Gestor de proyectos de IA y datos ·
 | `4. Estudiantes` | Carpetas y entregas individuales |
 | `5. Retos` | Retos y lineamientos del proyecto final |
 | `6. Grupos` | Carpetas y entregas de cada grupo |
-| `Docs` | Documentación complementaria |
+| `docs` | Documentación complementaria |
 | `links` | Enlaces y recursos de interés |
