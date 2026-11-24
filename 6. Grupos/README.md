@@ -4,12 +4,11 @@ Espacio para las carpetas y entregas de cada grupo.
 
 ## Regla para cada entregable
 
-En **cada entregable**, además del trabajo solicitado, el grupo debe completar y subir a su carpeta la **[Hoja de evaluación del trabajo grupal y la participación](Hoja_Evaluacion_Trabajo_Grupal.docx)**.
+En **cada entregable**, además del trabajo solicitado, el grupo debe completar la **[Hoja de evaluación del trabajo grupal y la participación](Hoja_Evaluacion_Trabajo_Grupal.docx)** y adjuntarla al reporte que se entrega en Moodle.
 
 1. Descarguen la plantilla `Hoja_Evaluacion_Trabajo_Grupal.docx`.
 2. Complétenla entre todas las personas integrantes: datos generales, participación por integrante (escala 1 a 4) y reflexión del grupo.
-3. Guárdenla con el nombre `Reto-N_Hoja_Evaluacion.docx` (por ejemplo, `Reto-1_Hoja_Evaluacion.docx`).
-4. Súbanla a la carpeta de su grupo junto con la entrega y regístrenla en la tabla de entregas de su README.
+3. Adjúntenla al reporte de la entrega en Moodle (no se sube al repositorio).
 
 ## Grupos
 
