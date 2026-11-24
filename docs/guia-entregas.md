@@ -9,15 +9,22 @@ Tus tareas se trabajan en **tu fork** y se envían al **repositorio del curso** 
 
 En tu fork, haz clic en **Sync fork → Update branch**.
 
+![Sync fork](img/04-sync-fork.png)
+
 ## 2. Sube tu tarea a tu fork
 
 1. Entra a la carpeta que corresponde:
    - Tarea individual: `4. Estudiantes` → tu carpeta (si no existe, créala con tu nombre).
    - Tarea grupal: `6. Grupos` → la carpeta de tu grupo.
 2. Haz clic en **Add file → Upload files** (o **Create new file**).
+
+   ![Add file](img/05-add-file.png)
+
 3. Arrastra tus archivos.
 4. En el mensaje escribe qué entregas, por ejemplo: `Entrega Reto 1 - Nombre Apellido`.
 5. Haz clic en **Commit changes**.
+
+   ![Subir archivos](img/06-subir-archivos.png)
 
 ## 3. Crea el pull request hacia el repositorio del curso
 
@@ -32,6 +39,9 @@ En tu fork, haz clic en **Sync fork → Update branch**.
 
    - **base repository** = el repo del **curso** (`Universidad-Cenfotec/...`). ✅
    - Si en *base repository* aparece **tu usuario**, cámbialo a `Universidad-Cenfotec/...`. ❌
+
+   ![Barra del pull request](img/07-pull-request-base.png)
+
 3. Ponle un título claro, por ejemplo: `Entrega Reto 1 - Nombre Apellido`.
 4. Haz clic en **Create pull request**.
 
