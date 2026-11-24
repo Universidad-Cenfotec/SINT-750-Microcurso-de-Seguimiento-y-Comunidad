@@ -15,11 +15,6 @@ Este curso impulsa la consolidación de comunidades locales mediante proyectos d
 | **Competencia** | Gestión del conocimiento en comunidades de aprendizaje (SFIA · nivel 3, Aplicar) |
 | **Versión del programa** | 1.0 |
 
-## Perfil de ingreso
-
-- Conocimientos básicos en Inteligencia Artificial y Ciencia de Datos.
-- Nociones básicas en facilitación de grupos y gestión de proyectos colectivos.
-- Interés comprobado en innovación local y desarrollo de soluciones guiadas por datos.
 
 ## Contenidos temáticos
 
