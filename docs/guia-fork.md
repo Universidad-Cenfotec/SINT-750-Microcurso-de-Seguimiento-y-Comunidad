@@ -16,11 +16,15 @@ Un **fork** es una copia del repositorio del curso dentro de tu cuenta de GitHub
 
 2. **Haz clic en el botón `Fork`**, arriba a la derecha.
 
+   ![Botón Fork](img/01-boton-fork.png)
+
 3. En la pantalla *Create a new fork*:
    - **Owner:** elige tu usuario (por ejemplo, `GabyHN`).
    - **Repository name:** déjalo igual.
    - Deja marcada la opción **Copy the `main` branch only**.
    - Haz clic en **Create fork**.
+
+   ![Crear fork](img/02-crear-fork.png)
 
 4. **Verifica que quedó bien.** Debes estar en una página con esta dirección:
 
@@ -30,6 +34,8 @@ Un **fork** es una copia del repositorio del curso dentro de tu cuenta de GitHub
 
    Y debajo del nombre debe decir: *forked from Universidad-Cenfotec/SINT-750-Microcurso-de-Seguimiento-y-Comunidad*.
 
+   ![Fork creado](img/03-fork-creado.png)
+
 ¡Listo! Solo se crea el fork **una vez** en todo el curso.
 
 ## Mantén tu fork actualizado
@@ -38,3 +44,6 @@ Antes de cada tarea, actualiza tu fork para tener lo más reciente del curso:
 
 1. Entra a tu fork (`github.com/GabyHN/SINT-750-...`).
 2. Haz clic en **Sync fork** y luego en **Update branch**.
+   Si ya está al día, verás el mensaje *This branch is not behind the upstream*: no tienes que hacer nada.
+
+   ![Sync fork](img/04-sync-fork.png)
